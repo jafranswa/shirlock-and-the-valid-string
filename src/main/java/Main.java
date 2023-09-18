@@ -9,7 +9,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        // hacker rank problem link
+        // hacker rank problem link https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
         // string too long can be used to test this for a string that tests time complexity
         // this string is sotred in a seperate file because its over 100k char and will cause compliation errors if not
         // string too long should pass as a "YES" valid string
